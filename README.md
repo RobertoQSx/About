@@ -3,9 +3,9 @@
 Please note that as of February 2023 I have migrated <a href= "https://robertoqs.org">my website</a> to <a href= "https://srht.site">Sourcehut Pages</a>. Thank you. 
 <br>  
   
-<i>On Miscellaneous Passages: Translations and Writings<br>
-De pasajes misceláneos: traducciones y escrituras<br>
-Dē locūtiōnibus miscellānīs: conversiōnēs scriptūraeque</i>
+On Miscellaneous Passages: Translations and Writings.<br>
+De pasajes misceláneos: traducciones y escrituras.<br>
+Dē locūtiōnibus miscellānīs: conversiōnēs scriptūraeque.
 </p>
 
 <h2>Contact</h2>
