@@ -15,8 +15,7 @@ Dē locūtiōnibus miscellānīs: conversiōnēs scriptūraeque
     <tr>  
       <td><a href= "mailto:info@robertoqs.org">Email</a></td>
       <td><a href= "https://t.me/robertoqs">Telegram</a></td>
-      <td><a rel="me" href="https://mastodon.social/@robertoqs">Mastodon</a></td>
-      <td><a href= "https://web.libera.chat/#robertoqs">IRC</a></td>
+      <td><a rel="me" href="https://writing.exchange/@robertoqs">Mastodon</a></td>
     </tr>
   </tbody>
 </p>
