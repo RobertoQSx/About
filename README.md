@@ -5,3 +5,4 @@ Please note this document is simply a link repository, a reference hub with an i
 - [Telegram](https://t.me/robertoqs)
 - [Mastodon](https://writing.exchange/@robertoqs)
 - [Lemmy](https://literature.cafe/u/robertoqs)
+- [Discord](discordapp.com/users/robertoqs)
