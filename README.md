@@ -1,6 +1,5 @@
 # Greetings
-This is my personal website's HTML and CSS repository. It is work in progress.<br>
-The principal purpose consists in poems written by me, which are conjunctures of poetry, philosophy and science fiction.
+This is my personal website's HTML and CSS repository. It is work in progress. The principal purpose consists in poems written by me, which are conjunctures of poetry, philosophy and science fiction. The original language is Spanish, which I afterwards translate.
 
 ***
 
