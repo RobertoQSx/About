@@ -8,3 +8,7 @@ The principal purpose consists in poems written by me, which are conjunctures of
 
 &gt; *Cōgitō ergō quaerō. Quaerō ergō legō. Legō ergō sum.*<br>
 &gt; *Scrībō ergō sum.*
+
+***
+
+&#169; [Roberto Q. S.](https://writing.exchange/@robertoqs)
