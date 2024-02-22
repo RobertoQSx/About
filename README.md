@@ -1,5 +1,5 @@
 # Greetings
-This is my personal website's HTML and CSS repository. It is work in progress. The principal focus consists in poems written by me, which are conjunctures of poetry, philosophy and science fiction. The original language is Spanish, from which I afterwards translate.
+[My personal website](robertoqsx.github.io)'s HTML and CSS repository is located in this GitHub profile. It is work in progress. The principal focus consists in poems written by me, which are conjunctures of poetry, philosophy and science fiction. The original language is Spanish, from which I afterwards translate.
 
 ***
 
