@@ -7,7 +7,24 @@ My website's HTML and CSS repository is located in this GitHub profile. It is wo
 ~/robertoqs/autopoiesis/linguosynthesis
 
 &gt; *Cōgitō ergō quaerō. Quaerō ergō legō. Legō ergō sum.*<br>
-&gt; *Scrībō ergō sum.*
+&gt; *Scrībō ergō sum.*<br>
+&gt; _
+
+***
+
+**0**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What one cannot compute, thereof one must speak.
+
+**1.7**&nbsp;&nbsp;&nbsp;&nbsp;*Poiēsis* is a name I retain to speak of creative mental responses to
+the noncomputable, especially as they pertain to intellection *with*
+language.
+
+**2.0**&nbsp;&nbsp;&nbsp;&nbsp;I *qualify* the noetic existence of poetry. I am not *defining* it. I am
+not installing an *in/out* gate. I am not even giving a series of traits
+that should be *reserved* to the poetic. Specificity is built through the singular assemblage of nonunique features. It does no more
+require a fixed number of features (all of them, most of them, ...)
+to crystallize. Uniqueness is gauche conceptual framing.
+
+### — Poetry and Mind: Tractatus Poetico-Philosophicus (Laurent Dubreuil, 2018).
 
 ***
 
