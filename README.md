@@ -24,7 +24,7 @@ that should be *reserved* to the poetic. Specificity is built through the singul
 require a fixed number of features (all of them, most of them, ...)
 to crystallize. Uniqueness is gauche conceptual framing.
 
-### — Poetry and Mind: Tractatus Poetico-Philosophicus (Laurent Dubreuil, 2018).
+### — *Poetry and Mind: Tractatus Poetico-Philosophicus* (Laurent Dubreuil, 2018).
 
 ***
 
