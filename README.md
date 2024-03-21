@@ -4,10 +4,10 @@ My website's HTML and CSS repository is located in this GitHub profile. It is wo
 
 ***
 
-~/autopoiesis/neurosynthesis/linguosynthesis/synthèse_conjonctive
-
+**~/autopoiesis/neurosynthesis/linguosynthesis/synthèse_conjonctive**<br>
+&gt; πάντα ῥεῖ &middot; γνῶθι σεαυτόν.<br>
 &gt; *Cōgitō ergō quaerō. Quaerō ergō legō. Legō ergō sum.*<br>
-&gt; *Scrībō ergō sum.*<br>
+&gt; *Scrībō ergō sum. Sum ergō scrībō.*<br>
 &gt; _
 
 ***
