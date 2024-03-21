@@ -12,6 +12,8 @@ My website's HTML and CSS repository is located in this GitHub profile. It is wo
 
 ***
 
+# Prolegomenical Quotations
+
 What is a word? The image of a nerve stimulus in sounds. But to infer from the nerve stimulus, a cause outside us, that is already the result of a false and unjustified application of the principle of reason... The different languages, set side by side, show that what matters with words is never the truth, never an adequate expression; else there would not be so many languages. The “thing in itself” (for that is what pure truth, without consequences, would be) is quite incomprehensible to the creators of language and not at all worth aiming for. One designates only the relations of things to man, and to express them one calls on the boldest metaphors. A nerve stimulus, first transposed into an image — first metaphor. The image, in turn, imitated by a sound — second metaphor.
 
 [...]
