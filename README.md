@@ -33,7 +33,7 @@ Le seul mot de liberté est tout ce qui m'exalte encore. Je le crois propre à e
 Creation of a *thing*, and creation plus full understanding of a *correct idea* of the thing, *are very often parts of one and the same indivisible process* and cannot be separated without bringing the process to a stop.
 
 
-### — Paul Feyerabend, *Against Method* (1974).
+### — Paul Feyerabend, *Against Method* (1975).
 
 ***
 
