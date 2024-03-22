@@ -1,6 +1,6 @@
 # [My Poetic Writings](robertoqsx.github.io)
  
-My website's HTML and CSS repository is located in this GitHub profile. It is work in progress. Perhaps it will perpetually be, as process of *production désirante*. It focuses on writings that may or may not be interpreted as poetry. The original language is Spanish, from which I eventually translate. Concerning possible strict definitions of “poetry”, as well as whether or not the texts in question are prose poems, the enquiry is not a priority to be treated there. I leave such considerations at the reader's discretion. In my perspective, it is more important for the reading to be cognitively stimulating, often via an oscillation between the recognizable and the mystifying — and in the first instance, radically, the joy of writing.
+My website's HTML and CSS repository is located in this GitHub profile. It is work in progress, and perhaps it will perpetually be, as process of *production désirante*. It focuses on writings that may or may not be interpreted as poetry. The original language is Spanish, from which I eventually translate. Concerning possible strict definitions of “poetry”, as well as whether or not the texts in question are prose poems, the enquiry is not a priority to be treated there. I leave such considerations at the reader's discretion. In my perspective, it is more important for the reading to be cognitively stimulating, often via an oscillation between the recognizable and the mystifying — and in the first instance, radically, the joy of writing.
 
 ***
 
