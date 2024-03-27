@@ -13,4 +13,5 @@ Voici la liste de mes sites web personnels que j'héberge sur GitHub Pages.
 «D'extraits philosophiques»
 
 ***
-&copy; Roberto Q. S.
+&copy; Roberto Q. S.<br>
+[Discord](https://discord.gg/wkGRwVAR55)&nbsp;&middot;&nbsp;[Telegram](https://t.me/robertoqs)
