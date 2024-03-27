@@ -1,6 +1,6 @@
-La siguiente es la lista de mis sitios web personales que alojo en GitHub Pages.<br>
-The following is the list of my personal websites that I host on GitHub Pages.<br>
-Voici la liste de mes sites web personnels que j'héberge sur GitHub Pages.
+La siguiente es la lista de mis sitios web personales alojados en GitHub Pages.<br>
+The following is the list of my personal websites hosted on GitHub Pages.<br>
+Voici la liste de mes sites web personnels hébergés sur GitHub Pages.
  
 # [Scrīptōrum poēticōrum](https://scriptorum-poeticorum.github.io)
 «De escritos poéticos».<br>
