@@ -16,7 +16,7 @@ D'extraits philosophiques***
 Roberto Q. S.<br>
 [Discord](https://discord.gg/wkGRwVAR55)&nbsp;|&nbsp;[Telegram](https://t.me/robertoqs)<br>
 
-Mi obra original está bajo licencia internacional [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) o posterior.<br>
+Mi obra original está bajo la licencia internacional [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) o posterior.<br>
 My original work is under international license [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) or later.<br>
-Mon œuvre originale est sous licence internationale [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr) ou ultérieure.
+Mon œuvre originale est sous la licence internationale [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr) ou ultérieure.
 
